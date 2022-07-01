@@ -1,0 +1,37 @@
+{
+  "name": "linier",
+  "version": "1.0.0",
+  "description": "package for easy creating figuries in your application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-felker/linier.git"
+  },
+  "keywords": [
+    "npm",
+    "figuries",
+    "line",
+    "circle",
+    "trangle",
+    "svg",
+    "model",
+    "models",
+    "ui",
+    "frontend",
+    "user",
+    "interface",
+    "style"
+  ],
+  "author": "Nick Felker<java.2015@bk.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nick-felker/linier/issues"
+  },
+  "homepage": "https://github.com/nick-felker/linier#readme",
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  }
+}
